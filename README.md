@@ -97,8 +97,8 @@ streamlit run dashboard/weather_dashboard.py
 
 👤 Author
 Vitus Idi
-[\[text\](https://github.com/galapoto/)]
-[text](https://www.linkedin.com/in/vitus-idi-70524718/)
+https://github.com/galapoto/
+https://www.linkedin.com/in/vitus-idi-70524718/
 
 📃 License
 This project is open source under the MIT License.
