@@ -1,0 +1,1 @@
+Mandatory GitHub Copilot: follow root AGENTS.md GLOBAL-AGENT-RUN-PROOF v1 on EVERY run: plan subsection, previous/new stage, core-function proof, inspected safe licensed reuse and scratch, exact CI/deployment status, whole-project DONE/IN PROGRESS/NOT STARTED/BLOCKED. Keep stricter local approvals.
