@@ -1,0 +1,1 @@
+Mandatory Claude / other agents: read AGENTS.md. Every run report precise plan task, before/after implementation stage, working core function, reused/adapted and scratch code with rationale, real CI/live verification, and whole-project progress. Do not override local security/permissions.
