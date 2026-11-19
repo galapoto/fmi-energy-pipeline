@@ -1,0 +1,5 @@
+---
+description: Mandatory BEST-FIT-TECH-001
+alwaysApply: true
+---
+BEST-FIT-TECH-001: Before any new/resumed development, read AGENTS.md and latest approved requirements plus https://github.com/obumai/obum-delivery/blob/main/docs/BEST_FIT_TECH_001.md. Acknowledge `BEST-FIT-TECH-001 acknowledged` in first substantive reply with repo, specification, real user result, inspected reusable licensed code, actually executed skills, missing compiler/toolchain resolution, tests, release holds. Compare best-fit languages/libraries and UI text/colors/spacing/icon alignment, authorized REA and maintainability; obtain verified pinned tools in approved isolated environments or ask smallest owner action. Verify actual visual/a11y/backend functional/security/performance/recovery and exact-SHA deployment; preserve project restrictions. Never substitute a plan or cited skill for implementation.
